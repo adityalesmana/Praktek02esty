@@ -15,5 +15,7 @@ public class segitigaAksi {
         
         rl.alas   = 7;
         rl.tinggi = 9;
+        
+        rl.cetakInfo();
 }
 }
