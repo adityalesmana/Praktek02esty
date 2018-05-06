@@ -4,6 +4,11 @@ public class segitiga {
     double alas;
     double tinggi;
     
+    public segitiga() {
+        alas=3;
+        tinggi=6;   
+    }
+    
     void cetakInfo() {
         System.out.println("==================");
         System.out.println("alas   :"+alas);
