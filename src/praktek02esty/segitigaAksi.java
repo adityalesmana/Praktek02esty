@@ -18,5 +18,6 @@ public class segitigaAksi {
         
         rl.cetakInfo();
         System.out.println("Keliling segitiga = "+rl.hitungKeliling());
+        rl.cetakKeliling();
 }
 }
