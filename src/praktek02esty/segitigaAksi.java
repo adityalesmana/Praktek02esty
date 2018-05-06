@@ -19,5 +19,12 @@ public class segitigaAksi {
         rl.cetakInfo();
         System.out.println("Keliling segitiga = "+rl.hitungKeliling());
         rl.cetakKeliling();
+        
+        segitiga r2 = new segitiga();
+        r2.cetakInfo();
+        
+        segitiga r3 = new segitiga();
+        r3.cetakInfo();
+    }
 }
-}
+
