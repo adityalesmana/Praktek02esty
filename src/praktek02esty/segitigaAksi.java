@@ -12,5 +12,8 @@ package praktek02esty;
 public class segitigaAksi {
     public static void main(String[] args) {
         segitiga rl = new segitiga();
+        
+        rl.alas   = 7;
+        rl.tinggi = 9;
 }
 }
