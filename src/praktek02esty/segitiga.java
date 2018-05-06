@@ -9,5 +9,11 @@ public class segitiga {
         System.out.println("alas   :"+alas);
         System.out.println("tinggi :"+tinggi);
         System.out.println("==================");
-}
+    }
+        
+    double hitungKeliling() {
+        double keliling;
+        keliling=alas*tinggi;
+        return keliling;
+    }
 }
